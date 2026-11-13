@@ -32,5 +32,5 @@ Demonstrates how data analysis can support personalised dog breed recommendation
 - Descriptive statistics
 
 ## Download Project
-[Download dataset](./dog_breeds-dog_breeds.csv)
+[Download dataset](./dog_breeds_dog_breeds.csv)
 [Download python notebook](./dog_breeds.ipynb)
